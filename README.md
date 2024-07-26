@@ -11,7 +11,6 @@ Join me on this thrilling journey, where the fusion of creativity and code sculp
 
 ## 🛠 Skills & Technologies
 
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java?style=plastic)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
