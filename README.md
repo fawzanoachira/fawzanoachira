@@ -8,3 +8,8 @@ In this ever-evolving realm of bits and bytes, I take on the role of a navigator
 
 Join me on this thrilling journey, where the fusion of creativity and code sculpts the future of tech. Venture into the unexplored realms of the digital cosmos, where the resplendent echoes of Almighty's brilliance guide us on a mesmerizing journey through the tapestry of innovation. Let's connect and redefine the boundaries of what's possible! 
 🚀💻 #TechInnovation
+
+## 🛠 Skills & Technologies
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
