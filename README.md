@@ -31,6 +31,7 @@ Join me on this thrilling journey, where the fusion of creativity and code sculp
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic)](#)
 ![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white&style=plastic)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow&logoColor=white&style=plastic)](#)
+![MSI](https://img.shields.io/badge/-MSI-000?logo=msi&logoColor=FF0000&style=plastic)
 
 [comment]: <> (https://github.com/inttter/md-badges?tab=readme-ov-file#-work-and-jobs)
 
