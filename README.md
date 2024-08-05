@@ -12,7 +12,7 @@ Join me on this thrilling journey, where the fusion of creativity and code sculp
 
 ## 🛠 Skills & Technologies
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white&style=plastic)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=plastic)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=plastic)](#)
