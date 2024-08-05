@@ -12,20 +12,24 @@ Join me on this thrilling journey, where the fusion of creativity and code sculp
 
 ## 🛠 Skills & Technologies
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)](#)
+![Java](https://custom-icon-badges.demolab.com/badge/Java-3a75b0.svg?logo=java&logoColor=white&style=plastic)
+[![Python](https://img.shields.io/badge/Python-1e415e?logo=python&logoColor=fff&style=plastic)](#)
+[![Dart](https://img.shields.io/badge/Dart-1c2834?logo=dart&logoColor=0175C2&style=plastic)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=plastic)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=plastic)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic)](#)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white&style=plastic)](#)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=plastic)](#)
+[![Flutter](https://img.shields.io/badge/Flutter-1c2840?logo=flutter&logoColor=02569B&style=plastic)](#)
 ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=plastic)
+![Pandas](https://img.shields.io/badge/Pandas-FFFFFF?logo=pandas&logoColor=150458&style=plastic)
+![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?logo=scrapy&logoColor=white&style=plastic)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=plastic)](#)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=plastic)](#)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=plastic)](#)
+![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-black.svg?logo=vs%20code&logoColor=white&style=plastic)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white&style=plastic)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic)](#)
+![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white&style=plastic)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow&logoColor=white&style=plastic)](#)
 
 [comment]: <> (https://github.com/inttter/md-badges?tab=readme-ov-file#-work-and-jobs)
