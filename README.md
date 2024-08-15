@@ -18,6 +18,7 @@ Join me on this thrilling journey, where the fusion of creativity and code sculp
 [![HTML](https://img.shields.io/badge/HTML-white.svg?logo=html5&logoColor=E34F26&style=plastic)](#)
 [![CSS](https://img.shields.io/badge/CSS-fff?logo=css3&logoColor=1572B6&style=plastic)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic)](#)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-fff?logo=tensorflow&logoColor=FF6F00&style=plastic)
 [![Flutter](https://img.shields.io/badge/Flutter-white?logo=flutter&logoColor=02569B&style=plastic)](#)
 ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=plastic)
 ![Pandas](https://img.shields.io/badge/Pandas-FFFFFF?logo=pandas&logoColor=150458&style=plastic)
