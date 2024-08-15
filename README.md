@@ -28,6 +28,7 @@ Join me on this thrilling journey, where the fusion of creativity and code sculp
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=plastic)](#)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=plastic)](#)
 ![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-black.svg?logo=vs%20code&logoColor=white&style=plastic)
+![jupyter](https://img.shields.io/badge/Jupyter-fff?logo=jupyter&logoColor=F37626&style=plastic)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white&style=plastic)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic)](#)
 ![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white&style=plastic)
