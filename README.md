@@ -14,6 +14,7 @@ Join me on this thrilling journey, where the fusion of creativity and code sculp
 
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-3a75b0.svg?logo=java&logoColor=white&style=plastic)
 [![Python](https://img.shields.io/badge/Python-1e415e?logo=python&logoColor=fff&style=plastic)](#)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=plastic)
 [![Dart](https://img.shields.io/badge/Dart-1c2834?logo=dart&logoColor=0175C2&style=plastic)](#)
 [![HTML](https://img.shields.io/badge/HTML-white.svg?logo=html5&logoColor=E34F26&style=plastic)](#)
 [![CSS](https://img.shields.io/badge/CSS-fff?logo=css3&logoColor=1572B6&style=plastic)](#)
