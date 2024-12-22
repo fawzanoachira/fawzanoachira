@@ -1,7 +1,7 @@
 # Peace be upon you! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 # I'm Muhammed Fawzan A
 
-🚀 Software Developer | AI/ML Engineer | 💻 Passionate about web development, AI Enthusiast
+🚀 Software Engineer | AI/ML Engineer | 💻 Passionate about web development, AI Enthusiast
 
 Journeying on a whimsical digital journey, my insatiable passion for all things computer-related metamorphoses into the essence of a coding druid. Armed with a verdant coding wand, I traverse lush, enchanted forests of algorithms, unraveling the intricate moss-covered enigmas that intertwine with the very heartbeat of nature's code.
 
