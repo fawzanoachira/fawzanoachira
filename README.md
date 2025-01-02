@@ -38,6 +38,7 @@ Join me on this thrilling journey, where the fusion of creativity and code sculp
 ![MSI](https://img.shields.io/badge/-MSI-000?logo=msi&logoColor=FF0000&style=plastic)
 
 [comment]: <> (https://github.com/inttter/md-badges?tab=readme-ov-file#-work-and-jobs)
+[comment]: <> (https://simpleicons.org/)
 
 ## Socials
 
