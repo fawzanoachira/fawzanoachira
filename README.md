@@ -48,10 +48,13 @@ Join me on this thrilling journey, where the fusion of creativity and code sculp
 [comment]: <> (https://github.com/inttter/md-badges?tab=readme-ov-file#-work-and-jobs)
 [comment]: <> (https://simpleicons.org/)
 
-## Socials
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedfawzana) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@fawzanaramam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fawzanoachira@gmail.com) 
 
-<p align="left"> <a href="https://www.github.com/fawzanoachira" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/muhammedfawzana" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fawzanoachira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fawzanoachira&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fawzanoachira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/fawzanoachira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fawzanoachira&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
